@@ -27,7 +27,7 @@ Lista desordenada:
 codigo en linea: `codigo`
 
 Bloque de codigo:
-``` 
+```
 codigo
 ```
 
